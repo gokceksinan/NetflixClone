@@ -2,6 +2,7 @@
 - Project: Netflix Clone Project 
 
 - This project is designed as a Netflix clone. 🎬 Movies are listed under their respective categories, and users can access detailed information such as cast, production countries, budget, and spoken languages on the movie detail page.
+  ----------
 
 - React(FrontEnd)
 -  react-router-dom: It is a routing library that enables navigation in React applications without page refresh.
